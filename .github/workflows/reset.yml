@@ -1,0 +1,90 @@
+name: reset
+
+on:
+  workflow_dispatch:
+    inputs:
+      confirm:
+        description: "Type ERASE to keep only the latest commit"
+        required: true
+        default: "NO"
+
+jobs:
+  squash:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Confirm destructive action
+        run: |
+          if [ "${{ github.event.inputs.confirm }}" != "ERASE" ]; then
+            echo "Confirmation failed"
+            exit 1
+          fi
+
+      - name: Checkout full history
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Set Git identity
+        run: |
+          git config user.name "senvora"
+          git config user.email "192395417+senvora@users.noreply.github.com"
+
+      - name: Squash history to one commit
+        run: |
+          set -e
+          BRANCH="${{ github.ref_name }}"
+
+          git checkout "$BRANCH"
+          git checkout --orphan _temp
+          git add -A
+          git commit \
+          --author="senvora <192395417+senvora@users.noreply.github.com>" \
+          -m "Intial commit"
+          git branch -M "$BRANCH"
+          git push --force origin "$BRANCH"
+
+  keep-latest-workflow-run:
+    runs-on: ubuntu-latest
+    needs: squash
+    permissions:
+      actions: write
+      contents: read
+
+    steps:
+      - name: Keep only latest workflow run
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+        run: |
+          set -e
+
+          PAGE=1
+          KEEP_ID=""
+
+          while true; do
+            RESPONSE=$(curl -s \
+              -H "Authorization: Bearer $GITHUB_TOKEN" \
+              -H "Accept: application/vnd.github+json" \
+              "https://api.github.com/repos/$REPO/actions/runs?per_page=100&page=$PAGE")
+
+            IDS=$(echo "$RESPONSE" | jq -r '.workflow_runs[].id')
+
+            [ -z "$IDS" ] && break
+
+            for ID in $IDS; do
+              if [ -z "$KEEP_ID" ]; then
+                KEEP_ID="$ID"
+                echo "Keeping workflow run: $KEEP_ID"
+              else
+                echo "Deleting workflow run: $ID"
+                curl -s -X DELETE \
+                  -H "Authorization: Bearer $GITHUB_TOKEN" \
+                  -H "Accept: application/vnd.github+json" \
+                  "https://api.github.com/repos/$REPO/actions/runs/$ID" \
+                  >/dev/null
+              fi
+            done
+
+            PAGE=$((PAGE + 1))
+          done

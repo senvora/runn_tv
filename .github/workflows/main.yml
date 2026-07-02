@@ -1,0 +1,64 @@
+name: Generate RunnTV
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    env:
+      RUNNTV_JSON_URL: ${{ secrets.RUNNTV_JSON_URL }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Generate EPG XML.GZ
+        run: python scripts/epg.py
+
+      - name: Generate M3U Playlist
+        run: python scripts/playlist.py
+
+      - name: Commit generated files
+        run: |
+          git config user.name "senvora"
+          git config user.email "192395417+senvora@users.noreply.github.com"
+
+          git add epg/runntv.xml.gz
+          git add playlist/runntv.m3u
+
+          EPG_CHANGED=false
+          PLAYLIST_CHANGED=false
+
+          git diff --cached --quiet -- epg/runntv.xml.gz || EPG_CHANGED=true
+          git diff --cached --quiet -- playlist/runntv.m3u || PLAYLIST_CHANGED=true
+
+          IST_TIME=$(TZ=Asia/Kolkata date +"%d-%b-%Y %I:%M %p IST")
+
+          if [ "$EPG_CHANGED" = true ] && [ "$PLAYLIST_CHANGED" = true ]; then
+            COMMIT_MSG="Auto Updated EPG and Playlist - $IST_TIME"
+          elif [ "$EPG_CHANGED" = true ]; then
+            COMMIT_MSG="Auto Updated EPG - $IST_TIME"
+          elif [ "$PLAYLIST_CHANGED" = true ]; then
+            COMMIT_MSG="Auto Updated Playlist - $IST_TIME"
+          else
+            echo "No changes detected"
+            exit 0
+          fi
+
+          echo "Commit message: $COMMIT_MSG"
+          git commit -m "$COMMIT_MSG"
+          git push
