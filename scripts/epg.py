@@ -56,15 +56,13 @@ def build_xml(channels):
         if not channel_id:
             continue
 
+        schedules = channel.get("schedules") or []
+
         if channel_id not in merged_channels:
             merged_channels[channel_id] = dict(channel)
-            merged_channels[channel_id]["schedules"] = list(
-                channel.get("schedules", [])
-            )
+            merged_channels[channel_id]["schedules"] = list(schedules)
         else:
-            merged_channels[channel_id]["schedules"].extend(
-                channel.get("schedules", [])
-            )
+            merged_channels[channel_id]["schedules"].extend(schedules)
 
     # Channels
     for channel_id, channel in merged_channels.items():
@@ -77,16 +75,13 @@ def build_xml(channels):
             or f"Channel {channel_id}"
         )
 
+        images = channel.get("images") or {}
+        logo_data = images.get("logo") or {}
+
         logo = (
-            channel.get("images", {})
-            .get("logo", {})
-            .get("web")
-            or channel.get("images", {})
-            .get("logo", {})
-            .get("mobile")
-            or channel.get("images", {})
-            .get("logo", {})
-            .get("tv")
+            logo_data.get("web")
+            or logo_data.get("mobile")
+            or logo_data.get("tv")
         )
 
         if logo:
@@ -95,9 +90,12 @@ def build_xml(channels):
 
     # Programmes
     for channel_id, channel in merged_channels.items():
-        schedules = channel.get("schedules", [])
+        schedules = channel.get("schedules") or []
 
         for epg in schedules:
+            if not isinstance(epg, dict):
+                continue
+
             start = epg.get("startTimeEpoch") or epg.get("startTime")
             if not start:
                 continue
@@ -124,12 +122,21 @@ def build_xml(channels):
             title.text = epg.get("programName", "Unknown")
 
             desc = etree.SubElement(prog, "desc", lang="en")
-            desc.text = epg.get(
-                "description",
-                epg.get("programName", "")
+            desc.text = (
+                epg.get("description")
+                or epg.get("programName")
+                or ""
             )
 
-            for genre in epg.get("genres", []):
+            genres = epg.get("genres") or []
+
+            if not isinstance(genres, list):
+                genres = []
+
+            for genre in genres:
+                if not isinstance(genre, dict):
+                    continue
+
                 name = genre.get("name")
                 if name:
                     cat = etree.SubElement(prog, "category")
