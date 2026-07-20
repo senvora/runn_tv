@@ -204,12 +204,6 @@ https://b4u-kadak.cdn.runn.tv/playlist.m3u8
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://b4u-movies.cdn.runn.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="123" tvg-name="blywcm" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYWCM/Web/thumbnail/26a59852-eecf-4255-b59b-efeb012344fb.png" group-title="Movies" tvg-chno="123",Eros Universe Bollywood Cinema
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://runn.tv
-#EXTVLCOPT:http-referer=https://runn.tv/
-https://eros-blywdcnm.cdn.runn.tv/eros/stream/blywcm/playlist.m3u8
-
 #EXTINF:-1 tvg-id="124" tvg-name="ersent" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ERSENT/Web/thumbnail/4b435974-1477-4e41-a8ea-bf05ddf4113b.png" group-title="Movies" tvg-chno="124",Eros Universe Entertainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://runn.tv
