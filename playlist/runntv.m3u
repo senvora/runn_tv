@@ -372,6 +372,12 @@ https://runntv.kableone.com/hls/live/2111218/SagaMusic/master.m3u8
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://runntv.kableone.com/hls/live/2111218/SagaHaryanvi/master.m3u8
 
+#EXTINF:-1 tvg-id="16" tvg-name="shemaroo-filmigaane" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SMRFGN/Web/thumbnail/logo_web.png" group-title="Music" tvg-chno="16",Shemaroo Filmigaane
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://runn.tv
+#EXTVLCOPT:http-referer=https://runn.tv/
+https://smr-runntv-flmgn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
+
 #EXTINF:-1 tvg-id="96" tvg-name="yrfmus" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/YRFMUS/Web/thumbnail/c736cc42-ce6c-43ad-a2a1-28e668ba4d49.png" group-title="Music" tvg-chno="96",YRF Music
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://runn.tv
@@ -449,4 +455,10 @@ https://alltimemovies.cdn.runn.tv/penmusic/stream/altmov/playlist.m3u8
 #EXTVLCOPT:http-origin=https://runn.tv
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://balajitelefilms-runntv.vgcdn.net/vglive-sk-864130/v1/019d675553f51ea540a815e5635b31/019d67562bdd1ea540a815e5635b34/playlist.m3u8
+
+#EXTINF:-1 tvg-id="137" tvg-name="suptel" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SUPTEL/Web/thumbnail/2a77cbcc-4c18-4f09-bdc4-ba722efebe6d.png" group-title="Undefined" tvg-chno="137",Superfine Telugu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://runn.tv
+#EXTVLCOPT:http-referer=https://runn.tv/
+https://prod-runn.cdn.runn.tv/runntv/stream/suptel/playlist.m3u8
 
