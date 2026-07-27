@@ -378,6 +378,12 @@ https://runntv.kableone.com/hls/live/2111218/SagaHaryanvi/master.m3u8
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://smr-runntv-flmgn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
 
+#EXTINF:-1 tvg-id="96" tvg-name="yrfmus" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/YRFMUS/Web/thumbnail/c736cc42-ce6c-43ad-a2a1-28e668ba4d49.png" group-title="Music" tvg-chno="96",YRF Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://runn.tv
+#EXTVLCOPT:http-referer=https://runn.tv/
+https://runntv.kableone.com/hls/live/2111218/YrfMusic/master.m3u8
+
 #EXTINF:-1 tvg-id="55" tvg-name="indtvy" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/INDTVY/Web/thumbnail/aecf3b8e-1ad3-40b0-a997-c68cf372cb81.png" group-title="Lifestyle" tvg-chno="55",India TV Yoga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://runn.tv
