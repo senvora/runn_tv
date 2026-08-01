@@ -72,6 +72,12 @@ https://newsnation.cdn.runn.tv/nnbrjh/master_nnbrjh_runntv.m3u8
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://newsnation.cdn.runn.tv/nnmp/master_nnmp_runntv.m3u8
 
+#EXTINF:-1 tvg-id="122" tvg-name="nnpbhr" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NNPBHR/Web/thumbnail/b43717d4-5505-40d2-883e-9debd775ef4e.png" group-title="News" tvg-chno="122",News State Punjab/HR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://runn.tv
+#EXTVLCOPT:http-referer=https://runn.tv/
+https://newsnation.cdn.runn.tv/nnpunj/master_nnpunj_runntv.m3u8
+
 #EXTINF:-1 tvg-id="36" tvg-name="nnatuk" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NNATUK/Web/thumbnail/aa098647-c807-4387-9be0-61289f46ad44.png" group-title="News" tvg-chno="36",News State UP/UK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://runn.tv
