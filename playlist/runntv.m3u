@@ -396,12 +396,6 @@ https://indiatv.cdn.runn.tv/v1/vglive-sk-385006/main.m3u8
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://prod-runn.cdn.runn.tv/runntv/stream/jagran/playlist.m3u8
 
-#EXTINF:-1 tvg-id="127" tvg-name="outcha" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/OUTCHA/Web/thumbnail/1dc96c12-1d58-4c1b-9b26-306974743b7e.png" group-title="Lifestyle" tvg-chno="127",Outdoor Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://runn.tv
-#EXTVLCOPT:http-referer=https://runn.tv/
-https://d3dtdt06tmqos6.cloudfront.net/scheduler/scheduleMaster/455.m3u8
-
 #EXTINF:-1 tvg-id="80" tvg-name="carcar" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/CARCAR/Mobile/thumbnail/54317851-3356-4b71-85af-f36b5c0250ae.png" group-title="Kids" tvg-chno="80",Cartoon TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://runn.tv
