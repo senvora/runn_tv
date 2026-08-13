@@ -288,6 +288,12 @@ https://gtc.ottlive.co.in/punjabshort/index.m3u8
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://runshf.cdn.runn.tv/runntv/stream/p_runshf/playlist.m3u8
 
+#EXTINF:-1 tvg-id="119" tvg-name="amuspo" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/AMUSPO/Web/thumbnail/22a7374c-1090-4a08-b461-57b7c777be64.png" group-title="Sports" tvg-chno="119",Amuzi Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://runn.tv
+#EXTVLCOPT:http-referer=https://runn.tv/
+https://amuzi-sports.cdn.runn.tv/amuzisports/stream/amzspt/playlist.m3u8
+
 #EXTINF:-1 tvg-id="82" tvg-name="criusa" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/CRIUSA/Mobile/thumbnail/88e00abc-1b7b-45a9-b2e9-5bbed8a756e8.png" group-title="Sports" tvg-chno="82",Cricket Gold USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://runn.tv
