@@ -1,11 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/senvora/runn_tv/main/epg/runntv.xml.gz"
 
-#EXTINF:-1 tvg-id="54" tvg-name="apkadt" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/APKADT/Web/thumbnail/cdba5a41-acf5-4b89-ae0a-ddb2fb8820a6.png" group-title="News" tvg-chno="54",Aap ki Adalat
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://runn.tv
-#EXTVLCOPT:http-referer=https://runn.tv/
-https://indiatv.cdn.runn.tv/v1/vglive-sk-912213/main.m3u8
-
 #EXTINF:-1 tvg-id="100" tvg-name="abpana" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPANA/Web/thumbnail/677e1366-c162-47dd-8ba6-ca44a19ccbc4.png" group-title="News" tvg-chno="100",ABP Ananda
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://runn.tv
@@ -89,12 +83,6 @@ https://newsnation.cdn.runn.tv/nnup/master_nnup_runntv.m3u8
 #EXTVLCOPT:http-origin=https://runn.tv
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://news9.cdn.runn.tv/amg01106c3/hls.m3u8
-
-#EXTINF:-1 tvg-id="56" tvg-name="spdnws" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SPDNWS/Web/thumbnail/4548a0b5-230a-4d7d-a6a8-97b48954c8be.png" group-title="News" tvg-chno="56",Speed News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://runn.tv
-#EXTVLCOPT:http-referer=https://runn.tv/
-https://indiatv.cdn.runn.tv/v1/vglive-sk-479089/main.m3u8
 
 #EXTINF:-1 tvg-id="45" tvg-name="tv9bha" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/TV9BHA/Web/thumbnail/4eaef931-e0a5-449e-90aa-aa4da623b0c0.png" group-title="News" tvg-chno="45",TV9 Bharatvarsh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
