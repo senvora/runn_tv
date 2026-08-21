@@ -186,6 +186,12 @@ https://amg14122-amg14122c1-amgplt0249.playout.now3.amagi.tv/playout/amg14122/am
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://tttflm.cdn.runn.tv/runntv/stream/p_ttflm/playlist.m3u8
 
+#EXTINF:-1 tvg-id="62" tvg-name="b4ubho" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/B4UBHO/Web/thumbnail/1843e74c-cf03-4baa-91f1-d81f925fb2a3.png" group-title="Movies" tvg-chno="62",B4U Bhojpuri
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://runn.tv
+#EXTVLCOPT:http-referer=https://runn.tv/
+https://b4u-bhojpuri.cdn.runn.tv/master.m3u8
+
 #EXTINF:-1 tvg-id="61" tvg-name="b4ukad" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/B4UKAD/Web/thumbnail/4b80eee0-6cf3-4448-983d-cf7da7e9a44d.png" group-title="Movies" tvg-chno="61",B4U Kadak
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://runn.tv
