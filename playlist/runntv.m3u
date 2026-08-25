@@ -342,12 +342,6 @@ https://streams2.sofast.tv/ptnr-runntv/title-XTREM-SPORTS-ENG/sofastplayout/dd07
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://9x.cdn.runn.tv/9X_Jalwa/master.m3u8
 
-#EXTINF:-1 tvg-id="57" tvg-name="run9xm" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/RUN9XM/Mobile/thumbnail/66e1721d-864f-46cf-a583-73c2837e5a75.png" group-title="Music" tvg-chno="57",9XM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://runn.tv
-#EXTVLCOPT:http-referer=https://runn.tv/
-https://9x.cdn.runn.tv/9XM/master.m3u8
-
 #EXTINF:-1 tvg-id="60" tvg-name="b4umus" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/B4UMUS/Mobile/thumbnail/a7139e1a-3391-412c-9478-f8feb183f143.png" group-title="Music" tvg-chno="60",B4U Music
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://runn.tv
