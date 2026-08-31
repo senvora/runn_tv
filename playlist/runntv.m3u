@@ -6,24 +6,6 @@
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://indiatv.cdn.runn.tv/v1/vglive-sk-912213/main.m3u8
 
-#EXTINF:-1 tvg-id="100" tvg-name="abpana" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPANA/Web/thumbnail/677e1366-c162-47dd-8ba6-ca44a19ccbc4.png" group-title="News" tvg-chno="100",ABP Ananda
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://runn.tv
-#EXTVLCOPT:http-referer=https://runn.tv/
-https://abpnews.cdn.runn.tv/2042873/ananda/master.m3u8
-
-#EXTINF:-1 tvg-id="65" tvg-name="abpasm" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPASM/Mobile/thumbnail/8574857e-c550-4838-97b9-9b971c1d8976.png" group-title="News" tvg-chno="65",ABP Asmita
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://runn.tv
-#EXTVLCOPT:http-referer=https://runn.tv/
-https://abpnews.cdn.runn.tv/2042876/asmita/master.m3u8
-
-#EXTINF:-1 tvg-id="64" tvg-name="abpmaj" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPMAJ/Mobile/thumbnail/f07ad06d-c6ef-4154-a888-baeb3455205b.png" group-title="News" tvg-chno="64",ABP Majha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://runn.tv
-#EXTVLCOPT:http-referer=https://runn.tv/
-https://abpnews.cdn.runn.tv/2042872/majha/master.m3u8
-
 #EXTINF:-1 tvg-id="20" tvg-name="abp_news" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPNEW/Web/thumbnail/logo_web.png" group-title="News" tvg-chno="20",ABP NEWS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://runn.tv
