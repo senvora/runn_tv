@@ -48,6 +48,12 @@ https://indiatv.cdn.runn.tv/v1/vglive-sk-274906/main.m3u8
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://mahua-khabar.cdn.runn.tv/mahuakhabarjio/index.m3u8
 
+#EXTINF:-1 tvg-id="12" tvg-name="prd_navbht" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_NAVBHT/Web/thumbnail/logo_web.png" group-title="News" tvg-chno="12",Navbharat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://runn.tv
+#EXTVLCOPT:http-referer=https://runn.tv/
+https://navbharat.cdn.runn.tv/master.m3u8
+
 #EXTINF:-1 tvg-id="31" tvg-name="newnat" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NEWNAT/Web/thumbnail/NEWS NATION Channel Logo.png" group-title="News" tvg-chno="31",News Nation
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://runn.tv
