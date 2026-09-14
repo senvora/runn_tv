@@ -18,6 +18,12 @@ https://abpnews.cdn.runn.tv/2042873/ananda/master.m3u8
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://abpnews.cdn.runn.tv/2042876/asmita/master.m3u8
 
+#EXTINF:-1 tvg-id="64" tvg-name="abpmaj" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPMAJ/Mobile/thumbnail/f07ad06d-c6ef-4154-a888-baeb3455205b.png" group-title="News" tvg-chno="64",ABP Majha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://runn.tv
+#EXTVLCOPT:http-referer=https://runn.tv/
+https://abpnews.cdn.runn.tv/2042872/majha/master.m3u8
+
 #EXTINF:-1 tvg-id="20" tvg-name="abp_news" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPNEW/Web/thumbnail/logo_web.png" group-title="News" tvg-chno="20",ABP NEWS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://runn.tv
@@ -360,6 +366,12 @@ https://runntv.kableone.com/hls/live/2111218/SagaMusic/master.m3u8
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://runntv.kableone.com/hls/live/2111218/SagaHaryanvi/master.m3u8
 
+#EXTINF:-1 tvg-id="16" tvg-name="shemaroo-filmigaane" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SMRFGN/Web/thumbnail/logo_web.png" group-title="Music" tvg-chno="16",Shemaroo Filmigaane
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://runn.tv
+#EXTVLCOPT:http-referer=https://runn.tv/
+https://smr-runntv-flmgn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
+
 #EXTINF:-1 tvg-id="96" tvg-name="yrfmus" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/YRFMUS/Web/thumbnail/c736cc42-ce6c-43ad-a2a1-28e668ba4d49.png" group-title="Music" tvg-chno="96",YRF Music
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://runn.tv
@@ -437,12 +449,6 @@ https://alltimemovies.cdn.runn.tv/penmusic/stream/altmov/playlist.m3u8
 #EXTVLCOPT:http-origin=https://runn.tv
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://balajitelefilms-runntv.vgcdn.net/vglive-sk-864130/v1/019d675553f51ea540a815e5635b31/019d67562bdd1ea540a815e5635b34/playlist.m3u8
-
-#EXTINF:-1 tvg-id="139" tvg-name="nhnamo" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NHNAMO/Web/thumbnail/75cbbbf8-95ce-44e7-a964-dcec32085c79.png" group-title="Undefined" tvg-chno="139",NH Namo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://runn.tv
-#EXTVLCOPT:http-referer=https://runn.tv/
-https://nhnamo.cdn.runn.tv/ganpatilive/index.m3u8
 
 #EXTINF:-1 tvg-id="137" tvg-name="suptel" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SUPTEL/Web/thumbnail/2a77cbcc-4c18-4f09-bdc4-ba722efebe6d.png" group-title="Undefined" tvg-chno="137",Superfine Telugu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
