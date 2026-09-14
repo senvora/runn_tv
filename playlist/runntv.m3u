@@ -246,17 +246,17 @@ https://runthr.cdn.runn.tv/runntv/stream/p_runthr/playlist.m3u8
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://smr-runntv-blywd.cdn.runn.tv/shemaroo/stream/smrbol/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5" tvg-name="p_supflm" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SUPFLM/Web/thumbnail/logo_web.png" group-title="Movies" tvg-chno="5",Superfine Films
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://runn.tv
-#EXTVLCOPT:http-referer=https://runn.tv/
-https://prod-runn.cdn.runn.tv/runntv/stream/p_supflm/playlist.m3u8
-
 #EXTINF:-1 tvg-id="29" tvg-name="p_supjio" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SUPJIO/Web/thumbnail/62d65198-5f33-4640-9ebf-d80d94d23507.png" group-title="Movies" tvg-chno="29",Superfine Films
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://runn.tv
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://supflm.cdn.runn.tv/runntv/stream/p_supjio/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5" tvg-name="p_supflm" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SUPFLM/Web/thumbnail/logo_web.png" group-title="Movies" tvg-chno="5",Superfine Films
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://runn.tv
+#EXTVLCOPT:http-referer=https://runn.tv/
+https://prod-runn.cdn.runn.tv/runntv/stream/p_supflm/playlist.m3u8
 
 #EXTINF:-1 tvg-id="70" tvg-name="suptam" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SUPTAM/Web/thumbnail/22ccb58a-9662-4702-9340-341b18816788.png" group-title="Movies" tvg-chno="70",Superfine Tamil
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
