@@ -456,9 +456,3 @@ https://balajitelefilms-runntv.vgcdn.net/vglive-sk-864130/v1/019d675553f51ea540a
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://nhnamo.cdn.runn.tv/index.m3u8
 
-#EXTINF:-1 tvg-id="137" tvg-name="suptel" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SUPTEL/Web/thumbnail/2a77cbcc-4c18-4f09-bdc4-ba722efebe6d.png" group-title="Undefined" tvg-chno="137",Superfine Telugu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://runn.tv
-#EXTVLCOPT:http-referer=https://runn.tv/
-https://supflm-telugu.cdn.runn.tv/runntv/stream/suptel/playlist.m3u8
-
