@@ -24,6 +24,12 @@ https://abpnews.cdn.runn.tv/2042876/asmita/master.m3u8
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://abpnews.cdn.runn.tv/2042872/majha/master.m3u8
 
+#EXTINF:-1 tvg-id="20" tvg-name="abp_news" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPNEW/Web/thumbnail/logo_web.png" group-title="News" tvg-chno="20",ABP NEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://runn.tv
+#EXTVLCOPT:http-referer=https://runn.tv/
+https://abpnews.cdn.runn.tv/2042871-b/abpnews/master.m3u8
+
 #EXTINF:-1 tvg-id="107" tvg-name="gtcnew" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/GTCNEW/Web/thumbnail/2dd84780-dad8-4485-819e-afb57d0f0e1a.png" group-title="News" tvg-chno="107",GTC News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://runn.tv
