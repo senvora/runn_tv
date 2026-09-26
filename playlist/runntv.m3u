@@ -150,6 +150,12 @@ https://gtc.ottlive.co.in/gtcpunjabi/index.m3u8
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://streams2.sofast.tv/ptnr-runntv/title-JUST_FOR_LAUGHS_GAGS/sofastplayout/4c727f82-d2ec-4a07-870c-49a6f22ee6f9_0_HLS/manifest.m3u8
 
+#EXTINF:-1 tvg-id="126" tvg-name="mahply" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/MAHPLY/Web/thumbnail/ed72db6c-836f-4ea6-9f89-09863775897d.png" group-title="Entertainment" tvg-chno="126",Mahua Play
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://runn.tv
+#EXTVLCOPT:http-referer=https://runn.tv/
+https://mahua-play.cdn.runn.tv/mahuaplayjio/index.m3u8
+
 #EXTINF:-1 tvg-id="89" tvg-name="mangot" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/MANGOT/Web/thumbnail/a34f6ed6-2c01-4c7e-9d46-97bb2a83de13.png" group-title="Entertainment" tvg-chno="89",Mango Mobile TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://runn.tv
@@ -179,6 +185,12 @@ https://amg14122-amg14122c1-amgplt0249.playout.now3.amagi.tv/playout/amg14122/am
 #EXTVLCOPT:http-origin=https://runn.tv
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://b4u-bhojpuri.cdn.runn.tv/master.m3u8
+
+#EXTINF:-1 tvg-id="61" tvg-name="b4ukad" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/B4UKAD/Web/thumbnail/4b80eee0-6cf3-4448-983d-cf7da7e9a44d.png" group-title="Movies" tvg-chno="61",B4U Kadak
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://runn.tv
+#EXTVLCOPT:http-referer=https://runn.tv/
+https://b4u-kadak.cdn.runn.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="59" tvg-name="b4umov" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/B4UMOV/Mobile/thumbnail/da5513b7-b46e-4a45-9c56-08a4f2fc7d86.png" group-title="Movies" tvg-chno="59",B4U Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -437,12 +449,6 @@ https://alltimemovies.cdn.runn.tv/penmusic/stream/altmov/playlist.m3u8
 #EXTVLCOPT:http-origin=https://runn.tv
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://balajitelefilms-runntv.vgcdn.net/vglive-sk-864130/v1/019d675553f51ea540a815e5635b31/019d67562bdd1ea540a815e5635b34/playlist.m3u8
-
-#EXTINF:-1 tvg-id="139" tvg-name="nhnamo" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NHNAMO/Web/thumbnail/75cbbbf8-95ce-44e7-a964-dcec32085c79.png" group-title="Undefined" tvg-chno="139",NH Namo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://runn.tv
-#EXTVLCOPT:http-referer=https://runn.tv/
-https://nhnamo.cdn.runn.tv/index.m3u8
 
 #EXTINF:-1 tvg-id="137" tvg-name="suptel" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SUPTEL/Web/thumbnail/2a77cbcc-4c18-4f09-bdc4-ba722efebe6d.png" group-title="Undefined" tvg-chno="137",Superfine Telugu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
