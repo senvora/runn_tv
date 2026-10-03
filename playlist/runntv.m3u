@@ -156,6 +156,12 @@ https://streams2.sofast.tv/ptnr-runntv/title-JUST_FOR_LAUGHS_GAGS/sofastplayout/
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://mahua-play.cdn.runn.tv/mahuaplayjio/index.m3u8
 
+#EXTINF:-1 tvg-id="89" tvg-name="mangot" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/MANGOT/Web/thumbnail/a34f6ed6-2c01-4c7e-9d46-97bb2a83de13.png" group-title="Entertainment" tvg-chno="89",Mango Mobile TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://runn.tv
+#EXTVLCOPT:http-referer=https://runn.tv/
+https://amg01911-amg01911c2-amgplt0249.playout.now3.amagi.tv/playout/amg01911/amg01911c2/amgplt0249/amgplt0249.m3u8
+
 #EXTINF:-1 tvg-id="105" tvg-name="mrbean" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/MRBEAN/Web/thumbnail/1dcd90af-d67d-4b69-966b-fac3c70d350f.png" group-title="Entertainment" tvg-chno="105",Mr Bean
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://runn.tv
@@ -378,12 +384,6 @@ https://runntv.kableone.com/hls/live/2111218/YrfMusic/master.m3u8
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://indiatv.cdn.runn.tv/v1/vglive-sk-385006/main.m3u8
 
-#EXTINF:-1 tvg-id="34" tvg-name="jagran" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/JAGRAN/Web/thumbnail/988b33e9-8db1-44ee-82e7-6ba6aaf0d753.png" group-title="Lifestyle" tvg-chno="34",OnlyMyHealth
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://runn.tv
-#EXTVLCOPT:http-referer=https://runn.tv/
-https://prod-runn.cdn.runn.tv/runntv/stream/jagran/playlist.m3u8
-
 #EXTINF:-1 tvg-id="127" tvg-name="outcha" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/OUTCHA/Web/thumbnail/1dc96c12-1d58-4c1b-9b26-306974743b7e.png" group-title="Lifestyle" tvg-chno="127",Outdoor Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://runn.tv
@@ -444,13 +444,13 @@ https://alltimemovies.cdn.runn.tv/penmusic/stream/altmov/playlist.m3u8
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://animax.cdn.runn.tv/amg02159c9/hls.m3u8
 
-#EXTINF:-1 tvg-id="136" tvg-name="journy" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/JOURNY/Web/thumbnail/ffceb0ac-e84a-4dfe-ae5c-d85007d26f9a.png" group-title="Undefined" tvg-chno="136",Journy
+#EXTINF:-1 tvg-id="136" tvg-name="journy" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/JOURNY/Web/thumbnail/ee6f181e-ffd8-4b27-aaaf-8b09609e2bf6.png" group-title="Undefined" tvg-chno="136",Journy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://runn.tv
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://journy.cdn.runn.tv/amg02159c11/hls.m3u8
 
-#EXTINF:-1 tvg-id="135" tvg-name="kcmkcm" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/KCMKCM/Web/thumbnail/06fb3c8f-cb9b-4753-9837-86f57aac8e4f.png" group-title="Undefined" tvg-chno="135",KCM
+#EXTINF:-1 tvg-id="135" tvg-name="kcmkcm" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/KCMKCM/Web/thumbnail/fa04423f-8b1e-42a6-b372-6a07288e1517.png" group-title="Undefined" tvg-chno="135",KCM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://runn.tv
 #EXTVLCOPT:http-referer=https://runn.tv/
