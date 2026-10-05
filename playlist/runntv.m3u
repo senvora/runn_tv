@@ -114,7 +114,7 @@ https://tv9-marathi.cdn.runn.tv/amg01106c7/hls.m3u8
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://tv9-telugu.cdn.runn.tv/amg01106c4/hls.m3u8
 
-#EXTINF:-1 tvg-id="95" tvg-name="alrght" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ALRGHT/Web/thumbnail/3c8da867-8225-4da7-92db-b51c71e2e06a.png" group-title="Entertainment" tvg-chno="95",Alright
+#EXTINF:-1 tvg-id="95" tvg-name="alrght" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ALRGHT/Web/thumbnail/c003faee-044a-48e0-8b62-06c7d7a5827b.png" group-title="Entertainment" tvg-chno="95",Alright
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://runn.tv
 #EXTVLCOPT:http-referer=https://runn.tv/
