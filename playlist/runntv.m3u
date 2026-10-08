@@ -300,12 +300,6 @@ https://streams2.sofast.tv/ptnr-runntv/title-CricketGold/sofastplayout/CricketGo
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://streams2.sofast.tv/ptnr-runntv/title-DRIVE__SPEED/sofastplayout/2f833f43-9e48-4a6e-88a8-8d99c32eb898_0_HLS/manifest.m3u8
 
-#EXTINF:-1 tvg-id="84" tvg-name="figfig" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/FIGFIG/Mobile/thumbnail/d6897b5a-de4d-4655-943a-106aafa7d130.png" group-title="Sports" tvg-chno="84",Fight TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://runn.tv
-#EXTVLCOPT:http-referer=https://runn.tv/
-https://streams2.sofast.tv/ptnr-runntv/title-FIGHT-TV-ENG/sofastplayout/2c1b92e0-9ef4-41b1-9713-ba53b562e94c_0_HLS/manifest.m3u8
-
 #EXTINF:-1 tvg-id="85" tvg-name="goagoa" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/GOAGOA/Mobile/thumbnail/6bb1bd7a-25c7-47fd-aa07-43c3155e73a8.png" group-title="Sports" tvg-chno="85",Goal TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://runn.tv
