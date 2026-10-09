@@ -156,6 +156,12 @@ https://streams2.sofast.tv/ptnr-runntv/title-JUST_FOR_LAUGHS_GAGS/sofastplayout/
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://mahua-play.cdn.runn.tv/mahuaplayjio/index.m3u8
 
+#EXTINF:-1 tvg-id="89" tvg-name="mangot" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/MANGOT/Web/thumbnail/a34f6ed6-2c01-4c7e-9d46-97bb2a83de13.png" group-title="Entertainment" tvg-chno="89",Mango Mobile TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://runn.tv
+#EXTVLCOPT:http-referer=https://runn.tv/
+https://amg01911-amg01911c2-amgplt0249.playout.now3.amagi.tv/playout/amg01911/amg01911c2/amgplt0249/amgplt0249.m3u8
+
 #EXTINF:-1 tvg-id="105" tvg-name="mrbean" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/MRBEAN/Web/thumbnail/1dcd90af-d67d-4b69-966b-fac3c70d350f.png" group-title="Entertainment" tvg-chno="105",Mr Bean
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://runn.tv
