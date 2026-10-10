@@ -12,6 +12,12 @@ https://indiatv.cdn.runn.tv/v1/vglive-sk-912213/main.m3u8
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://abpnews.cdn.runn.tv/2042873/ananda/master.m3u8
 
+#EXTINF:-1 tvg-id="65" tvg-name="abpasm" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPASM/Mobile/thumbnail/8574857e-c550-4838-97b9-9b971c1d8976.png" group-title="News" tvg-chno="65",ABP Asmita
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://runn.tv
+#EXTVLCOPT:http-referer=https://runn.tv/
+https://abpnews.cdn.runn.tv/2042876/asmita/master.m3u8
+
 #EXTINF:-1 tvg-id="64" tvg-name="abpmaj" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ABPMAJ/Mobile/thumbnail/f07ad06d-c6ef-4154-a888-baeb3455205b.png" group-title="News" tvg-chno="64",ABP Majha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://runn.tv
@@ -144,6 +150,12 @@ https://gtc.ottlive.co.in/gtcpunjabi/index.m3u8
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://streams2.sofast.tv/ptnr-runntv/title-JUST_FOR_LAUGHS_GAGS/sofastplayout/4c727f82-d2ec-4a07-870c-49a6f22ee6f9_0_HLS/manifest.m3u8
 
+#EXTINF:-1 tvg-id="126" tvg-name="mahply" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/MAHPLY/Web/thumbnail/ed72db6c-836f-4ea6-9f89-09863775897d.png" group-title="Entertainment" tvg-chno="126",Mahua Play
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://runn.tv
+#EXTVLCOPT:http-referer=https://runn.tv/
+https://mahua-play.cdn.runn.tv/mahuaplayjio/index.m3u8
+
 #EXTINF:-1 tvg-id="89" tvg-name="mangot" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/MANGOT/Web/thumbnail/a34f6ed6-2c01-4c7e-9d46-97bb2a83de13.png" group-title="Entertainment" tvg-chno="89",Mango Mobile TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://runn.tv
@@ -167,6 +179,12 @@ https://pitaaratv.cdn.runn.tv/ptnr-RunnTV/title-Pitaara_Comedy/v1/vglive-sk-2174
 #EXTVLCOPT:http-origin=https://runn.tv
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://amg14122-amg14122c1-amgplt0249.playout.now3.amagi.tv/playout/amg14122/amg14122c1/amgplt0249/amgplt0249.m3u8
+
+#EXTINF:-1 tvg-id="62" tvg-name="b4ubho" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/B4UBHO/Web/thumbnail/1843e74c-cf03-4baa-91f1-d81f925fb2a3.png" group-title="Movies" tvg-chno="62",B4U Bhojpuri
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://runn.tv
+#EXTVLCOPT:http-referer=https://runn.tv/
+https://b4u-bhojpuri.cdn.runn.tv/master.m3u8
 
 #EXTINF:-1 tvg-id="61" tvg-name="b4ukad" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/B4UKAD/Web/thumbnail/4b80eee0-6cf3-4448-983d-cf7da7e9a44d.png" group-title="Movies" tvg-chno="61",B4U Kadak
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -239,6 +257,12 @@ https://supflm.cdn.runn.tv/runntv/stream/p_supjio/playlist.m3u8
 #EXTVLCOPT:http-origin=https://runn.tv
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://prod-runn.cdn.runn.tv/runntv/stream/p_supflm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="70" tvg-name="suptam" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SUPTAM/Web/thumbnail/22ccb58a-9662-4702-9340-341b18816788.png" group-title="Movies" tvg-chno="70",Superfine Tamil
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://runn.tv
+#EXTVLCOPT:http-referer=https://runn.tv/
+https://supflm-tamil.cdn.runn.tv/runntv/stream/suptam/playlist.m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-name="p_pktflm" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_PKTFLM/Web/thumbnail/logo_web.png" group-title="Short Films" tvg-chno="4",Pocket Films
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
