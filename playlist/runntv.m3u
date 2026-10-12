@@ -390,6 +390,12 @@ https://indiatv.cdn.runn.tv/v1/vglive-sk-385006/main.m3u8
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://d3dtdt06tmqos6.cloudfront.net/scheduler/scheduleMaster/455.m3u8
 
+#EXTINF:-1 tvg-id="80" tvg-name="carcar" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/CARCAR/Mobile/thumbnail/54317851-3356-4b71-85af-f36b5c0250ae.png" group-title="Kids" tvg-chno="80",Cartoon TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://runn.tv
+#EXTVLCOPT:http-referer=https://runn.tv/
+https://streams2.sofast.tv/ptnr-runntv/title-CARTOON_TV/sofastplayout/3e3230ae-4664-4ba3-9ea7-15c06471d5ce_0_HLS/manifest.m3u8
+
 #EXTINF:-1 tvg-id="94" tvg-name="gregld" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/GREGLD/Web/thumbnail/ce985205-5974-48c4-94d4-0d7551e94b85.png" group-title="Kids" tvg-chno="94",Green Gold TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://runn.tv
