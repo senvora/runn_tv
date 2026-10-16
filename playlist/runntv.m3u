@@ -360,6 +360,12 @@ https://nh-runntv-blyrag.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://runntv.kableone.com/hls/live/2111218/SagaMusic/master.m3u8
 
+#EXTINF:-1 tvg-id="98" tvg-name="saghar" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SAGHAR/Web/thumbnail/20e8e32d-8c49-409d-8757-8f58e139c0d9.png" group-title="Music" tvg-chno="98",Saga Music Haryanvi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://runn.tv
+#EXTVLCOPT:http-referer=https://runn.tv/
+https://runntv.kableone.com/hls/live/2111218/SagaHaryanvi/master.m3u8
+
 #EXTINF:-1 tvg-id="16" tvg-name="shemaroo-filmigaane" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SMRFGN/Web/thumbnail/logo_web.png" group-title="Music" tvg-chno="16",Shemaroo Filmigaane
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://runn.tv
@@ -413,6 +419,18 @@ https://nunutv.cdn.runn.tv/runntv/stream/p_nunutv/playlist.m3u8
 #EXTVLCOPT:http-origin=https://runn.tv
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://pitaaratv.cdn.runn.tv/ptnr-RUNNTV/title-Divya_Bhajan_NONSSAI/v1/vglive-sk-987805/playlist.m3u8
+
+#EXTINF:-1 tvg-id="66" tvg-name="divdiv" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DIVDIV/Mobile/thumbnail/2e4bed94-9351-4ca8-9e99-9b2b6795ae5d.png" group-title="Devotional" tvg-chno="66",Divya TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://runn.tv
+#EXTVLCOPT:http-referer=https://runn.tv/
+https://pitaaratv.cdn.runn.tv/ptnr-RunnTV/title-DivyaTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-906482/playlist.m3u8
+
+#EXTINF:-1 tvg-id="99" tvg-name="sikrat" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SIKRAT/Web/thumbnail/16451ec3-88b2-4dfa-91db-585da3bd3e96.png" group-title="Devotional" tvg-chno="99",Sikh Ratnavali
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://runn.tv
+#EXTVLCOPT:http-referer=https://runn.tv/
+https://runntv.kableone.com/hls/live/2111218/SikhRatnavali/master.m3u8
 
 #EXTINF:-1 tvg-id="128" tvg-name="altmov" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ALTMOV/Web/thumbnail/6b0ed93c-db95-4d9b-8bad-a0c0245782c2.png" group-title="Undefined" tvg-chno="128",All Time Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
