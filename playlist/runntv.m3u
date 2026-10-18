@@ -360,6 +360,12 @@ https://nh-runntv-blyrag.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://runntv.kableone.com/hls/live/2111218/SagaMusic/master.m3u8
 
+#EXTINF:-1 tvg-id="98" tvg-name="saghar" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SAGHAR/Web/thumbnail/20e8e32d-8c49-409d-8757-8f58e139c0d9.png" group-title="Music" tvg-chno="98",Saga Music Haryanvi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://runn.tv
+#EXTVLCOPT:http-referer=https://runn.tv/
+https://runntv.kableone.com/hls/live/2111218/SagaHaryanvi/master.m3u8
+
 #EXTINF:-1 tvg-id="16" tvg-name="shemaroo-filmigaane" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SMRFGN/Web/thumbnail/logo_web.png" group-title="Music" tvg-chno="16",Shemaroo Filmigaane
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://runn.tv
