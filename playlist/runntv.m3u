@@ -78,6 +78,12 @@ https://newsnation.cdn.runn.tv/nnmp/master_nnmp_runntv.m3u8
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://newsnation.cdn.runn.tv/nnpunj/master_nnpunj_runntv.m3u8
 
+#EXTINF:-1 tvg-id="36" tvg-name="nnatuk" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NNATUK/Web/thumbnail/aa098647-c807-4387-9be0-61289f46ad44.png" group-title="News" tvg-chno="36",News State UP/UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://runn.tv
+#EXTVLCOPT:http-referer=https://runn.tv/
+https://newsnation.cdn.runn.tv/nnup/master_nnup_runntv.m3u8
+
 #EXTINF:-1 tvg-id="44" tvg-name="tv9news9" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/TV9NEWS9/Web/thumbnail/f39177fb-49a6-4104-9ccc-db5ee3354e73.png" group-title="News" tvg-chno="44",News9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://runn.tv
