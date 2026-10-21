@@ -222,6 +222,12 @@ https://nh-runntv-blyflx.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://nh-runntv-blygld.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8
 
+#EXTINF:-1 tvg-id="37" tvg-name="pitara" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/PITARA/Web/thumbnail/f80dc323-cd86-4001-ae97-f22f66da030b.png" group-title="Movies" tvg-chno="37",Pitaara TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://runn.tv
+#EXTVLCOPT:http-referer=https://runn.tv/
+https://pitaaratv.cdn.runn.tv/ptnr-RunnTV/title-PitaaraTV_NonSSAI/v1/vglive-sk-326599/playlist.m3u8
+
 #EXTINF:-1 tvg-id="7" tvg-name="p_runact" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_RUNACT/Web/thumbnail/logo_web.png" group-title="Movies" tvg-chno="7",Runn Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://runn.tv
