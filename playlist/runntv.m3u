@@ -228,12 +228,6 @@ https://nh-runntv-blygld.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://pitaaratv.cdn.runn.tv/ptnr-RunnTV/title-PitaaraTV_NonSSAI/v1/vglive-sk-326599/playlist.m3u8
 
-#EXTINF:-1 tvg-id="7" tvg-name="p_runact" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_RUNACT/Web/thumbnail/logo_web.png" group-title="Movies" tvg-chno="7",Runn Action
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://runn.tv
-#EXTVLCOPT:http-referer=https://runn.tv/
-https://runact.cdn.runn.tv/runntv/stream/p_runact/playlist.m3u8
-
 #EXTINF:-1 tvg-id="11" tvg-name="p_runthr" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_RUNTHR/Web/thumbnail/logo_web.png" group-title="Movies" tvg-chno="11",Runn Thrillers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://runn.tv
@@ -593,4 +587,10 @@ https://d2s0nm772jwqx0.cloudfront.net/index.m3u8
 #EXTVLCOPT:http-origin=https://runn.tv
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://d2p1suhl4d5har.cloudfront.net/index.m3u8
+
+#EXTINF:-1 tvg-id="162" tvg-name="zeupuk" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ZEUPUK/Web/thumbnail/209512f6-62fb-4e69-b71c-019fe39b6dcb.png" group-title="Undefined" tvg-chno="162",Zee UP UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://runn.tv
+#EXTVLCOPT:http-referer=https://runn.tv/
+https://d3t3lft1dr8hgc.cloudfront.net/index.m3u8
 
