@@ -402,12 +402,6 @@ https://streams2.sofast.tv/ptnr-runntv/title-CARTOON_TV/sofastplayout/3e3230ae-4
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://runntv-grngld.cdn.runn.tv/greengold/stream/grngld/playlist.m3u8
 
-#EXTINF:-1 tvg-id="118" tvg-name="lookid" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/LOOKID/Web/thumbnail/cf5efe29-152b-474c-a26c-cdec6c950e9a.png" group-title="Kids" tvg-chno="118",LooLoo Kids
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://runn.tv
-#EXTVLCOPT:http-referer=https://runn.tv/
-https://loolookids.cdn.runn.tv/146-235-11653.m3u8
-
 #EXTINF:-1 tvg-id="1" tvg-name="p_nunutv" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_NUNUTV/Web/thumbnail/logo_mobile.png" group-title="Kids" tvg-chno="1",NuNu TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://runn.tv
