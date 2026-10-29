@@ -516,6 +516,12 @@ https://supflm-telugu.cdn.runn.tv/runntv/stream/suptel/playlist.m3u8
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://d1eteppongifks.cloudfront.net/index.m3u8
 
+#EXTINF:-1 tvg-id="149" tvg-name="zee24g" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ZEE24G/Web/thumbnail/439daa34-20de-4ed6-a16f-e7cb23352ee5.png" group-title="Undefined" tvg-chno="149",Zee 24 Ghanta
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://runn.tv
+#EXTVLCOPT:http-referer=https://runn.tv/
+https://d383nbhkt8dma2.cloudfront.net/index.m3u8
+
 #EXTINF:-1 tvg-id="150" tvg-name="zee24k" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ZEE24K/Web/thumbnail/9cbf205a-7bed-40af-bd35-a239d59f299c.png" group-title="Undefined" tvg-chno="150",Zee 24 Kalak
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://runn.tv
