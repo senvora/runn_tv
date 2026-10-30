@@ -102,12 +102,6 @@ https://indiatv.cdn.runn.tv/v1/vglive-sk-479089/main.m3u8
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://tv9-bharatvarsh.cdn.runn.tv/amg01106c2/hls.m3u8
 
-#EXTINF:-1 tvg-id="92" tvg-name="tv9mar" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/TV9MAR/Mobile/thumbnail/ae52c8c0-1da5-4083-998d-64b094f441b2.png" group-title="News" tvg-chno="92",TV9 Marathi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://runn.tv
-#EXTVLCOPT:http-referer=https://runn.tv/
-https://tv9-marathi.cdn.runn.tv/amg01106c7/hls.m3u8
-
 #EXTINF:-1 tvg-id="91" tvg-name="tv9tel" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/TV9TEL/Mobile/thumbnail/8266b9a7-0c86-4afd-b655-0740ec7605c2.png" group-title="News" tvg-chno="91",TV9 Telugu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://runn.tv
@@ -449,12 +443,6 @@ https://animax.cdn.runn.tv/amg02159c9/hls.m3u8
 #EXTVLCOPT:http-origin=https://runn.tv
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://epicdocubay.cdn.runn.tv/master.m3u8
-
-#EXTINF:-1 tvg-id="142" tvg-name="epibha" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/EPIBHA/Web/thumbnail/f97bbe0e-7d3e-4545-a1ee-d0423d64bd92.png" group-title="Undefined" tvg-chno="142",Epic Bharat
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://runn.tv
-#EXTVLCOPT:http-referer=https://runn.tv/
-https://epicbharat.cdn.runn.tv/master.m3u8
 
 #EXTINF:-1 tvg-id="143" tvg-name="epibho" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/EPIBHO/Web/thumbnail/0f70c8c4-1f06-4a64-a937-16793d801c2b.png" group-title="Undefined" tvg-chno="143",Epic Bhojpuri
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
