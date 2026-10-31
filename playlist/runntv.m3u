@@ -336,12 +336,6 @@ https://9x.cdn.runn.tv/9X_Jalwa/master.m3u8
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://9x.cdn.runn.tv/9XM/master.m3u8
 
-#EXTINF:-1 tvg-id="60" tvg-name="b4umus" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/B4UMUS/Mobile/thumbnail/a7139e1a-3391-412c-9478-f8feb183f143.png" group-title="Music" tvg-chno="60",B4U Music
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://runn.tv
-#EXTVLCOPT:http-referer=https://runn.tv/
-https://b4u-music.cdn.runn.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="41" tvg-name="blyrag" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYRAG/Web/thumbnail/edac5b07-addf-45c8-97fb-77af5ff4831b.png" group-title="Music" tvg-chno="41",NH BollyRaga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://runn.tv
@@ -455,12 +449,6 @@ https://epicbharat.cdn.runn.tv/master.m3u8
 #EXTVLCOPT:http-origin=https://runn.tv
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://epicbhojpuri.cdn.runn.tv/master.m3u8
-
-#EXTINF:-1 tvg-id="144" tvg-name="epicri" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/EPICRI/Web/thumbnail/05cdcd76-5571-453c-ae5c-b60c13cbb878.png" group-title="Undefined" tvg-chno="144",Epic Crimes
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://runn.tv
-#EXTVLCOPT:http-referer=https://runn.tv/
-https://epiccrimes.cdn.runn.tv/master.m3u8
 
 #EXTINF:-1 tvg-id="145" tvg-name="epikid" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/EPIKID/Web/thumbnail/c2508d05-17e7-4562-a3da-466a811122e2.png" group-title="Undefined" tvg-chno="145",Epic Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
