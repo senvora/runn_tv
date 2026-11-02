@@ -564,6 +564,12 @@ https://d2wp1bpb924cyo.cloudfront.net/index.m3u8
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://dcoz4dytv0z2z.cloudfront.net/index.m3u8
 
+#EXTINF:-1 tvg-id="153" tvg-name="zebhjh" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ZEBHJH/Web/thumbnail/6d8d8e98-6490-46ce-8d50-fa635c668c72.png" group-title="Undefined" tvg-chno="153",Zee Bihar Jharkhand
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://runn.tv
+#EXTVLCOPT:http-referer=https://runn.tv/
+https://dkgjdzvng4ve9.cloudfront.net/index.m3u8
+
 #EXTINF:-1 tvg-id="154" tvg-name="zeebus" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ZEEBUS/Web/thumbnail/0baf2feb-838b-4fc8-89f5-4fbba9d3e5ac.png" group-title="Undefined" tvg-chno="154",Zee Business
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://runn.tv
