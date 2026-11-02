@@ -240,17 +240,17 @@ https://runthr.cdn.runn.tv/runntv/stream/p_runthr/playlist.m3u8
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://smr-runntv-blywd.cdn.runn.tv/shemaroo/stream/smrbol/playlist.m3u8
 
-#EXTINF:-1 tvg-id="29" tvg-name="p_supjio" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SUPJIO/Web/thumbnail/62d65198-5f33-4640-9ebf-d80d94d23507.png" group-title="Movies" tvg-chno="29",Superfine Films
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://runn.tv
-#EXTVLCOPT:http-referer=https://runn.tv/
-https://supflm.cdn.runn.tv/runntv/stream/p_supjio/playlist.m3u8
-
 #EXTINF:-1 tvg-id="5" tvg-name="p_supflm" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SUPFLM/Web/thumbnail/logo_web.png" group-title="Movies" tvg-chno="5",Superfine Films
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://runn.tv
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://prod-runn.cdn.runn.tv/runntv/stream/p_supflm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="29" tvg-name="p_supjio" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SUPJIO/Web/thumbnail/62d65198-5f33-4640-9ebf-d80d94d23507.png" group-title="Movies" tvg-chno="29",Superfine Films
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://runn.tv
+#EXTVLCOPT:http-referer=https://runn.tv/
+https://supflm.cdn.runn.tv/runntv/stream/p_supjio/playlist.m3u8
 
 #EXTINF:-1 tvg-id="70" tvg-name="suptam" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SUPTAM/Web/thumbnail/22ccb58a-9662-4702-9340-341b18816788.png" group-title="Movies" tvg-chno="70",Superfine Tamil
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -510,6 +510,12 @@ https://rbangla.cdn.runn.tv/amg01218c5/hls.m3u8
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://rbharat.cdn.runn.tv/amg01218c7/hls.m3u8
 
+#EXTINF:-1 tvg-id="175" tvg-name="rbusns" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/RBUSNS/Web/thumbnail/0612c2a9-b7f2-4adb-8e84-338a3b06c9e3.png" group-title="Undefined" tvg-chno="175",Republic Business
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://runn.tv
+#EXTVLCOPT:http-referer=https://runn.tv/
+https://rbusiness.cdn.runn.tv/amg01218c8/hls.m3u8
+
 #EXTINF:-1 tvg-id="176" tvg-name="rkanda" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/RKANDA/Web/thumbnail/2edbf53c-b596-447d-a3b8-83f0fb5bb431.png" group-title="Undefined" tvg-chno="176",Republic Kannada
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://runn.tv
@@ -557,12 +563,6 @@ https://d2wp1bpb924cyo.cloudfront.net/index.m3u8
 #EXTVLCOPT:http-origin=https://runn.tv
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://dcoz4dytv0z2z.cloudfront.net/index.m3u8
-
-#EXTINF:-1 tvg-id="153" tvg-name="zebhjh" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ZEBHJH/Web/thumbnail/6d8d8e98-6490-46ce-8d50-fa635c668c72.png" group-title="Undefined" tvg-chno="153",Zee Bihar Jharkhand
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://runn.tv
-#EXTVLCOPT:http-referer=https://runn.tv/
-https://dkgjdzvng4ve9.cloudfront.net/index.m3u8
 
 #EXTINF:-1 tvg-id="154" tvg-name="zeebus" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ZEEBUS/Web/thumbnail/0baf2feb-838b-4fc8-89f5-4fbba9d3e5ac.png" group-title="Undefined" tvg-chno="154",Zee Business
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
