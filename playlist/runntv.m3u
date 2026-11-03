@@ -498,6 +498,12 @@ https://journy.cdn.runn.tv/amg02159c11/hls.m3u8
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://kcm.cdn.runn.tv/amg02159c10/hls.m3u8
 
+#EXTINF:-1 tvg-id="138" tvg-name="kuting" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/KUTING/Web/thumbnail/e17460cc-7367-4740-8d17-4dcc0ca88a60.png" group-title="Undefined" tvg-chno="138",Kutingg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://runn.tv
+#EXTVLCOPT:http-referer=https://runn.tv/
+https://balajitelefilms-runntv.vgcdn.net/vglive-sk-864130/v1/019d675553f51ea540a815e5635b31/019d67562bdd1ea540a815e5635b34/playlist.m3u8
+
 #EXTINF:-1 tvg-id="178" tvg-name="rbngla" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/RBNGLA/Web/thumbnail/8f6e4793-8039-4baf-b031-f8a4266ca27d.png" group-title="Undefined" tvg-chno="178",Republic Bangla
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://runn.tv
@@ -563,6 +569,12 @@ https://d2wp1bpb924cyo.cloudfront.net/index.m3u8
 #EXTVLCOPT:http-origin=https://runn.tv
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://dcoz4dytv0z2z.cloudfront.net/index.m3u8
+
+#EXTINF:-1 tvg-id="153" tvg-name="zebhjh" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ZEBHJH/Web/thumbnail/6d8d8e98-6490-46ce-8d50-fa635c668c72.png" group-title="Undefined" tvg-chno="153",Zee Bihar Jharkhand
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://runn.tv
+#EXTVLCOPT:http-referer=https://runn.tv/
+https://dkgjdzvng4ve9.cloudfront.net/index.m3u8
 
 #EXTINF:-1 tvg-id="154" tvg-name="zeebus" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ZEEBUS/Web/thumbnail/0baf2feb-838b-4fc8-89f5-4fbba9d3e5ac.png" group-title="Undefined" tvg-chno="154",Zee Business
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
