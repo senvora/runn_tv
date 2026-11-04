@@ -438,6 +438,12 @@ https://runntv.kableone.com/hls/live/2111218/SikhRatnavali/master.m3u8
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://alltimemovies.cdn.runn.tv/penmusic/stream/altmov/playlist.m3u8
 
+#EXTINF:-1 tvg-id="140" tvg-name="animax" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ANIMAX/Web/thumbnail/e6dae5fe-b72c-4363-94c2-6b41d5949a5b.png" group-title="Undefined" tvg-chno="140",Animax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://runn.tv
+#EXTVLCOPT:http-referer=https://runn.tv/
+https://animax.cdn.runn.tv/amg02159c9/hls.m3u8
+
 #EXTINF:-1 tvg-id="141" tvg-name="docbay" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/DOCBAY/Web/thumbnail/6ec98665-3f62-4db1-ae8d-6858cc09d95f.png" group-title="Undefined" tvg-chno="141",DocuBay
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://runn.tv
