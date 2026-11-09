@@ -510,12 +510,6 @@ https://rbangla.cdn.runn.tv/amg01218c5/hls.m3u8
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://rbharat.cdn.runn.tv/amg01218c7/hls.m3u8
 
-#EXTINF:-1 tvg-id="175" tvg-name="rbusns" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/RBUSNS/Web/thumbnail/0612c2a9-b7f2-4adb-8e84-338a3b06c9e3.png" group-title="Undefined" tvg-chno="175",Republic Business
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://runn.tv
-#EXTVLCOPT:http-referer=https://runn.tv/
-https://rbusiness.cdn.runn.tv/amg01218c8/hls.m3u8
-
 #EXTINF:-1 tvg-id="176" tvg-name="rkanda" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/RKANDA/Web/thumbnail/2edbf53c-b596-447d-a3b8-83f0fb5bb431.png" group-title="Undefined" tvg-chno="176",Republic Kannada
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://runn.tv
