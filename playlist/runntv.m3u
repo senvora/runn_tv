@@ -606,12 +606,6 @@ https://d2i5cdjvd1pr5l.cloudfront.net/index.m3u8
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://d2ojjyn7hq12yb.cloudfront.net/index.m3u8
 
-#EXTINF:-1 tvg-id="160" tvg-name="zeeraj" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ZEERAJ/Web/thumbnail/9535573d-33d5-4fb0-92a9-d6d19be7737b.png" group-title="Undefined" tvg-chno="160",Zee Rajasthan News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://runn.tv
-#EXTVLCOPT:http-referer=https://runn.tv/
-https://d2s0nm772jwqx0.cloudfront.net/index.m3u8
-
 #EXTINF:-1 tvg-id="161" tvg-name="zeetel" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ZEETEL/Web/thumbnail/ddbbe00e-fd57-4585-8fb9-e889b6ea194b.png" group-title="Undefined" tvg-chno="161",Zee Telugu News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://runn.tv
