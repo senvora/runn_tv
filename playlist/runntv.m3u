@@ -498,6 +498,12 @@ https://kcm.cdn.runn.tv/amg02159c10/hls.m3u8
 #EXTVLCOPT:http-referer=https://runn.tv/
 https://balajitelefilms-runntv.vgcdn.net/vglive-sk-864130/v1/019d675553f51ea540a815e5635b31/019d67562bdd1ea540a815e5635b34/playlist.m3u8
 
+#EXTINF:-1 tvg-id="179" tvg-name="nhtamil" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NHTAMIL/Web/thumbnail/42a9f19b-4369-4e18-95a9-cd60d3f79169.png" group-title="Undefined" tvg-chno="179",NH Tamil Gold
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-origin=https://runn.tv
+#EXTVLCOPT:http-referer=https://runn.tv/
+https://nhtamil.cdn.runn.tv/nhstdz/stream/nhtamil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="178" tvg-name="rbngla" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/RBNGLA/Web/thumbnail/8f6e4793-8039-4baf-b031-f8a4266ca27d.png" group-title="Undefined" tvg-chno="178",Republic Bangla
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://runn.tv
