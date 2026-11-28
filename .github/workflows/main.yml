@@ -1,0 +1,56 @@
+name: Generate RunnTV
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    env:
+      RUNNTV_JSON_URL: ${{ secrets.RUNNTV_JSON_URL }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v5
+        with:
+          node-version: "24"
+
+      - name: Generate RUNNTV JSON, EPG and Playlist
+        run: node scripts/runntv.js
+
+      - name: Commit generated files
+        run: |
+          git config user.name "senvora"
+          git config user.email "192395417+senvora@users.noreply.github.com"
+
+          git add data/runntv.json
+          git add epg/runntv.xml.gz
+          git add playlist/runntv.m3u
+
+          JSON_CHANGED=false
+          EPG_CHANGED=false
+          PLAYLIST_CHANGED=false
+
+          git diff --cached --quiet -- data/runntv.json || JSON_CHANGED=true
+          git diff --cached --quiet -- epg/runntv.xml.gz || EPG_CHANGED=true
+          git diff --cached --quiet -- playlist/runntv.m3u || PLAYLIST_CHANGED=true
+
+          IST_TIME=$(TZ=Asia/Kolkata date +"%d-%b-%Y %I:%M %p IST")
+
+          if [ "$JSON_CHANGED" = true ] || [ "$EPG_CHANGED" = true ] || [ "$PLAYLIST_CHANGED" = true ]; then
+            COMMIT_MSG="Auto Updated RUNNTV - $IST_TIME"
+          else
+            echo "No changes detected"
+            exit 0
+          fi
+
+          echo "Commit message: $COMMIT_MSG"
+          git commit -m "$COMMIT_MSG"
+          git push
