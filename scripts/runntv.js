@@ -41,6 +41,8 @@ const OUTPUT_M3U = "playlist/runntv.m3u";
 const EPG_URL =
   "https://github.com/senvora/runn_tv/raw/main/epg/runntv.xml.gz";
 
+const LOGO_BASE_URL = "https://dnuk7lvye3m03.cloudfront.net";  
+
 // ============================================================
 // PLAYLIST HEADERS
 // ============================================================
@@ -644,12 +646,21 @@ function getLogo(channel) {
 
   if (!logo) return "";
 
-  return (
+  const logoPath =
     clean(logo.web) ||
     clean(logo.mobile) ||
     clean(logo.tv) ||
-    ""
-  );
+    "";
+
+  if (!logoPath) return "";
+
+  // Keep existing absolute URLs unchanged.
+  if (/^https?:\/\//i.test(logoPath)) {
+    return logoPath;
+  }
+
+  // Add CloudFront prefix to relative paths.
+  return `${LOGO_BASE_URL}/${logoPath.replace(/^\/+/, "")}`;
 }
 
 // ============================================================
